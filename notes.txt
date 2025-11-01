@@ -1,0 +1,4 @@
+CP004 Stage 2 write Test
+This text is written using Python.
+file handling lets us save our thoughts 💭.
+Love - From Jayasuriyaa Thambi, Logic- From Clementine Akka, Legacy From their's trust 💛
